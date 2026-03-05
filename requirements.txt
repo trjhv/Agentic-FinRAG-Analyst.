@@ -1,0 +1,10 @@
+streamlit
+groq
+yfinance
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+pypdf
+huggingface_hub
