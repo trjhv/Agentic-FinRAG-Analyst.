@@ -1,4 +1,3 @@
-app1
 import streamlit as st
 import pickle
 import faiss
