@@ -2,7 +2,7 @@
 
 > **Agentic FinRAG Analyst** represents the next evolution in open-source financial intelligence. By moving beyond passive Retrieval-Augmented Generation (RAG), this Streamlit-based application utilizes Llama 3.3 (via Groq LPUs) as an active controller within a ReAct loop. It seamlessly executes multi-hop reasoning by orchestrating hybrid semantic and lexical searches (FAISS + BM25) across static 10-K financial documents, and immediately cross-validating those insights against real-time market data via the `yfinance` API. Engineered specifically for absolute resilience on constrained free-tier cloud environments (1GB RAM), the system introduces deterministic intent routing to minimize LLM tool-calling overhead, dynamic context truncation for strict token optimization, and custom exponential backoff algorithms to gracefully handle API rate limits. The result is an institutional-grade, zero-hallucination analysis engine built entirely on accessible, open-weight architecture.
 
-
+https://omni-agentic-rag.streamlit.app/
 
 ## 🛡️ Strategic Advantages & Defense Logic
 
